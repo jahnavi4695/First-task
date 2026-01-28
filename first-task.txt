@@ -1,0 +1,5 @@
+Name: A.jahnavi
+Course: Datascience
+GitHub:
+GitHub is an online platform used to store and publish the projects.
+ 
